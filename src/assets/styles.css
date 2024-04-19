@@ -1,0 +1,49 @@
+/* styles.css */
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .App-header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .App-header h1 {
+    margin: 0;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  form input,
+  form select,
+  form button {
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-item {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
